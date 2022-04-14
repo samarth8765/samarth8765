@@ -1,3 +1,4 @@
+[![MasterHead](https://www.canva.com/design/DAE913HllHY/YV1dHOALcwcJGkpUSUyYUw/view?utm_content=DAE913HllHY&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)]
 <h1 align="center">Hi 👋, I'm Samarth Dhawan</h1>
 <h3 align="center">A passionate programmer, developer and learner</h3>
 
