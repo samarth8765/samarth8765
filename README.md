@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/samarth8765/samarth8765/blob/main/Banner.png)
+<img src="https://github.com/samarth8765/samarth8765/blob/main/Banner.png" width="3000" height="300">
 <h1 align="center">Hi 👋, I'm Samarth Dhawan</h1>
 <h3 align="center">A programmer, developer and learner</h3>
 
