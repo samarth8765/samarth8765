@@ -1,5 +1,5 @@
 <!-- <img src="https://github.com/samarth8765/samarth8765/blob/main/Banner.png" width="2750" height="275"> -->
-<h1 align="center">Hi 👋, I'm Samarth Dhawan</h1>
+<h1 align="center">Hi there!  <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="40" height="40"> I'm Samarth Dhawan</h1>
 <h3 align="center">A programmer, developer and learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarth8765&label=Profile%20views&color=0e75b6&style=flat" alt="samarth8765" /> </p>
@@ -25,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samarth8765&show_icons=true&locale=en" alt="samarth8765" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samarth8765&" alt="samarth8765" /></p>
+
+
